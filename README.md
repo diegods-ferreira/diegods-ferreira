@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Diego Ferreira
-- [LinkedIn](https://www.linkedin.com/in/diego-de-souza-ferreira/)
+- **[LinkedIn](https://www.linkedin.com/in/diego-de-souza-ferreira/)**
 - E-mail: **diegosf1705@gmail.com** or **diego.ferreira17@outlook.com**
 
 ## What's up, guys! 👋
