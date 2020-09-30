@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 📖 My name is Diego.
 
 - 💻 I'm a **college and fullstack web development student**.
-- 🏢 I'm currently working at **Embras - Empresa Brasileira de Sistemas** as a **technical support**.
+- 🏢 My last job was as a **technical support**.
 - 💙 Node.js, ReactJS and React Native!
