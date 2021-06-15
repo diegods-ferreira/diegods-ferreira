@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 📖 My name is Diego.
 
 - 💻 I'm a **college and fullstack web development student**.
-- 🏢 My current job is as **support analyst** at **iCasei**.
+- 🏢 My current job is as **JavaScript Full Stack Developer** at **eCondos**.
 - 💙 Node.js, ReactJS and React Native!
