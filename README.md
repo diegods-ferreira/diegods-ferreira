@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 🏢 My current job is as **JavaScript Full Stack Developer** at **eCondos**.
 - 💙 Node.js, ReactJS and React Native!
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ About my GitHub Account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegods-ferreira&show_icons=true)
