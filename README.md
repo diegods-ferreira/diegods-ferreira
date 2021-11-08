@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 💻 I'm a **college and fullstack web development student**.
 - 🏢 My current job is as **JavaScript Full Stack Developer** at **eCondos**.
 - 💙 Node.js, ReactJS and React Native!
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegods-ferreira&show_icons=true)
