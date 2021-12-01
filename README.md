@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 📖 My name is Diego.
 
-- 💻 I'm a **college and fullstack web development student**.
+- 💻 I'm a **fullstack web developer**.
 - 🏢 My current job is as **JavaScript Full Stack Developer** at **eCondos**.
 - 💙 Node.js, ReactJS and React Native!
 
